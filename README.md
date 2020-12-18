@@ -7,3 +7,5 @@ The purpose of this project is to take a working site with confusing and redunda
   1. Semantics
   1. Remove styling and positioning from structure
   1. Make title more descriptive
+
+ https://dethrelkeld.github.io/Code-Refactor/
